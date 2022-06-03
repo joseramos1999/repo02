@@ -9,3 +9,5 @@
 * Una vez añadidos habria que crear la rama origin main con git push --set-upstream origin main
 
 * Y con la rama creada, ya podremos hacer el commit
+
+* Por ultimo, para subir los cambios haremos el push a la rama
